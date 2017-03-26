@@ -2,9 +2,7 @@ package landmarketmavenproto.model;
 
 import org.springframework.data.annotation.Id;
 
-/**
- * Created by Nik_NB on 19.03.2017.
- */
+
 public class Land {
     @Id
     private String id;

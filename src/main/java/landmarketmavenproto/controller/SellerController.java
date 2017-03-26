@@ -10,9 +10,6 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by Nik_NB on 18.03.2017.
- */
 @RestController
 @RequestMapping("/seller")
 public class SellerController {
